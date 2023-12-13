@@ -5,7 +5,8 @@ The Bank Loan Report Project combines SQL for data manipulation and Tableau for 
 
 
 ## Data Source
-The project utilizes a dedicated bank loan database as the primary data source. [Data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true)
+The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities.
+[data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true)
 
 
 ## Tools
