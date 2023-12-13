@@ -1,12 +1,12 @@
-# Bank Loan Dashboard
+# Bank Loan Report
 
 ## Overview
 The Bank Loan Report Project combines SQL for data manipulation and Tableau for visualization to create a comprehensive report on bank loan data. This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
 
 
 ## Data Source
-The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities.
-[data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true)
+The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities
+[data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true).
 
 
 ## Tools
@@ -73,7 +73,6 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 Each field plays a crucial role in managing loans, assessing borrower risk, structuring loan terms, and making informed lending decisions.
 
 ## Implementation
-
 The project required importing the dataset from Excel into SQL Server for analysis and visualization using Tableau. Dashboards were crafted using Tableau's powerful visualization tools and analytical capabilities, aligning with the specified requirements in the problem statement and utilizing the data dictionary to ensure precise field utilization.
 
 ## Data Validation
@@ -82,7 +81,7 @@ To ensure the accuracy and integrity of the data reflected in the dashboards, a 
 
 - Data Consistency Checks: The results from Tableau were compared against the SQL query results to ensure consistency. This step was critical to confirm that the data transformation and logic applied within Tableau did not alter the actual figures.
 
-- KPI Logic Validation: The calculations and logic underlying the Key Performance Indicators (KPIs) were thoroughly reviewed. SQL scripts were employed to independently replicate the KPI calculations, ensuring the accuracy and reliability of the computations performed in Tableau
+- KPI Logic Validation: The calculations and logic underlying the Key Performance Indicators (KPIs) were thoroughly reviewed. SQL scripts were employed to independently replicate the KPI calculations, ensuring the accuracy and reliability of the computations performed in Tableau.
 
 
 - Cross-Verification with Source Data: The transformed data in Tableau was cross-verified with the source data from the SQL Server database. This step was crucial to confirm that all data transformations, including filtering, grouping, and aggregation, were correctly applied.
